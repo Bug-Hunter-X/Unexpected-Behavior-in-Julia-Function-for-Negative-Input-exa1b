@@ -1,0 +1,1 @@
+This repository contains a Julia function exhibiting unexpected behavior when processing negative input. The function intends to square the input, returning a positive value for positive input, 0 for 0, and a negative value for negative input.  The bug.jl file demonstrates the issue. The bugSolution.jl file provides a corrected version.
